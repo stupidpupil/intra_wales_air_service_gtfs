@@ -1,0 +1,3 @@
+agency_id,route_type,route_id,route_short_name,route_long_name
+OP1,1100,A2C,A2C,Anglesey to Cardiff
+OP1,1100,C2A,C2A,Cardiff to Anglesey

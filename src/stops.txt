@@ -1,0 +1,3 @@
+stop_id,stop_name,stop_lat,stop_lon
+VLY,Anglesey Airport,53.255187,-4.533641
+CWL,Cardiff Airport,51.399086,-3.340272

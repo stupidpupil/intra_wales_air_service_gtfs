@@ -1,0 +1,5 @@
+route_id,service_id,trip_id
+A2C,EA0609,T3 615
+A2C,EA0609,T3 619
+A2C,EA0609,T3 614
+A2C,EA0609,T3 618

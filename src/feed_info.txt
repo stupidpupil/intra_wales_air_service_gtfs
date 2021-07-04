@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang
+StupidPupil,https://github.com/stupidpupil/cwl_to_vly_flight_gtfs,en-GB
